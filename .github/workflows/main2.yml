@@ -16,7 +16,6 @@ jobs:
     runs-on: ubuntu-latest
  
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE
       - uses: actions/checkout@v3
  
       # Setup Python 3.12.7
