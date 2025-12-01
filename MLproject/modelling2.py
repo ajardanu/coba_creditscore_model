@@ -7,7 +7,8 @@ import numpy as np
 import os
 import warnings
 import sys
- 
+
+#nopal skibidi
 if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
